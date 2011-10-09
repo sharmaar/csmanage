@@ -1,0 +1,30 @@
+<Project DefaultTargets="Compile" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  
+  <PropertyGroup>
+    <TargetFolder>$(MSBuildProjectDirectory)\target</TargetFolder>
+    <CompileFolder>$(TargetFolder)\compile</CompileFolder>
+    <FxcopFolder>$(MSBuildProjectDirectory)\fxcop\10.0</FxcopFolder>
+
+    <FxcopConsoleExe>$(FxcopFolder)\FxCopCmd.exe</FxcopConsoleExe>
+  </PropertyGroup>
+
+  <Target Name="Clean">
+    <RemoveDir Directories="$(TargetFolder)" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\dotnet\csmanage\C#\csmanage.sln" Targets="Clean" Properties="Configuration=Release"/>
+  </Target>
+
+  <Target Name="Compile">
+    <MakeDir Directories="$(CompileFolder)" />
+    <MSBuild Projects="$(MSBuildProjectDirectory)\dotnet\csmanage\C#\csmanage.sln" Targets="Build" Properties="Configuration=Release;OutputPath=$(CompileFolder)"/>
+  </Target>
+
+  <Target Name="Fxcop" DependsOnTargets="Compile">
+   
+    
+    <Exec Command='$(FxcopConsoleExe) /f:$(CompileFolder) /out:fxcopresults.xml'  />
+  </Target>
+
+
+
+</Project>

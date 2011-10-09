@@ -1,0 +1,5 @@
+c:\CIServer\target\compile\ServiceManagement.dll
+c:\CIServer\target\compile\ServiceManagement.pdb
+c:\CIServer\dotnet\csmanage\C#\ServiceManagement\obj\Release\ResolveAssemblyReference.cache
+c:\CIServer\dotnet\csmanage\C#\ServiceManagement\obj\Release\ServiceManagement.dll
+c:\CIServer\dotnet\csmanage\C#\ServiceManagement\obj\Release\ServiceManagement.pdb

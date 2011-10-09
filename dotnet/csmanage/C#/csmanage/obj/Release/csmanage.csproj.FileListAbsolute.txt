@@ -1,0 +1,9 @@
+c:\CIServer\target\compile\csmanage.exe.config
+c:\CIServer\target\compile\csmanage.exe
+c:\CIServer\target\compile\csmanage.pdb
+c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\ResolveAssemblyReference.cache
+c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\Microsoft.Samples.WindowsAzure.ServiceManagement.Tools.ResourceFile.resources
+c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\ResGen.read.1.tlog
+c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\ResGen.write.1.tlog
+c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\csmanage.exe
+c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\csmanage.pdb
