@@ -5,8 +5,10 @@
     <TargetFolder>$(MSBuildProjectDirectory)\target</TargetFolder>
     <CompileFolder>$(TargetFolder)\compile</CompileFolder>
     <FxcopFolder>$(MSBuildProjectDirectory)\fxcop\10.0</FxcopFolder>
+	<BinscopeFolder>$(MSBuildProjectDirectory)\binscope</BinscopeFolder>
 
     <FxcopConsoleExe>$(FxcopFolder)\FxCopCmd.exe</FxcopConsoleExe>
+	<BinscopeConsoleExe>$(BinscopeFolder)\BinScope.exe</BinscopeConsoleExe>
   </PropertyGroup>
 
   <Target Name="Clean">
@@ -20,11 +22,12 @@
   </Target>
 
   <Target Name="Fxcop" DependsOnTargets="Compile">
-   
-    
     <Exec Command='$(FxcopConsoleExe) /f:$(CompileFolder) /r:$(FxcopFolder)\ActiveRules /out:fxcopresults.xml'  />
   </Target>
 
+  <Target Name="Binscope" DependsOnTargets="Compile">
+    <Exec Command='$(BinscopeConsoleExe) /target $(CompileFolder)\csmanage.exe /output:BSresult_csmanage.xml'  />
+  </Target>
 
 
 </Project>

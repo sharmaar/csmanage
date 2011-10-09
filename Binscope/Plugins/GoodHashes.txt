@@ -1,0 +1,51 @@
+﻿;\VS2002\atlcom.h
+89-1E-AE-C1-63-7C-2F-E3-04-73-36-40-9E-85-B2-B3
+;\VS2002\atlcomcli.h
+EA-D8-7D-FA-20-21-E2-DE-E1-A5-C0-D3-60-F5-A9-0E
+;\VS2003\atlcom.h
+E1-4A-1A-37-2C-93-64-68-2A-E6-FB-24-6A-C5-BB-FF
+;\VS2003\atlcomcli.h
+AD-D0-B4-D5-D0-4F-40-95-E8-5C-46-3E-71-7B-B6-26
+;\VS2005\atlcom.h
+E6-98-13-66-52-78-D3-21-07-56-51-44-9A-D1-40-CD
+;\VS2005\atlcomcli.h
+71-12-47-57-25-E0-FB-2B-4E-00-54-5F-96-AF-D9-F0
+;\VS2008RTM\atlcom.h
+CF-5C-48-69-8E-40-F1-E0-76-8D-9E-C5-BD-83-14-3A
+;\VS2008RTM\atlcomcli.h
+43-EA-75-74-62-13-38-DD-22-C9-DD-F6-23-76-43-7B
+;\VS2008SP1\atlcom.h
+CF-5C-48-69-8E-40-F1-E0-76-8D-9E-C5-BD-83-14-3A
+;\VS2008SP1\atlcomcli.h
+43-EA-75-74-62-13-38-DD-22-C9-DD-F6-23-76-43-7B
+;Win2kSP4 atlbase.h
+4D-9A-06-C6-ED-B0-2F-DC-38-99-D0-8A-76-32-5E-B6
+;Win2kSP4 atlcom.h
+D3-C6-49-BF-CB-E9-63-91-C4-60-8A-16-25-D2-BF-82
+;Dev10 Beta1 atlcom.h
+A1-C8-31-47-64-58-AB-19-BF-78-7E-58-AA-6D-33-3C
+;Dev10 Beta1 atlcomcli.h
+FA-54-0B-C9-DC-72-8D-E6-41-26-1E-1F-0B-AE-1E-E9
+;Dev10 atlcom.h
+95-E6-26-9C-6C-A3-5D-16-1B-87-43-61-7C-C3-E6-8B
+;Dev10 atlcomcli.h
+50-F4-89-51-12-D6-A0-09-E7-77-AB-9A-8E-53-AE-1C
+;AtlCom.h from Windows Phone 7 OS codebase (blessed by Meng)
+0A-34-FE-5E-A9-5D-DC-B4-E1-08-98-55-72-4C-67-3D
+;AtlComCli.h from Windows Phone 7 OS codebase (blessed by Meng)
+2D-06-C2-05-2D-E9-95-8D-C5-81-81-A2-33-2E-E2-81
+;VS 2010 atlcom.h
+DF-FD-3E-09-1E-4D-96-6E-E3-91-33-DF-F0-07-74-26
+;VS 2010 atlcomcli.h
+B7-35-BE-4E-22-BA-BF-BC-BE-CD-37-8D-7F-84-CB-3C
+;Win7Phone d:\seven1\others\atl9\include\atlcom.h
+D1-BE-16-30-5D-11-03-04-6E-FE-31-45-EE-2F-7E-5D
+;Win7Phone d:\wm7_tools_pb\tools\public\ext\vscrt\inc\atlmfc\atlimpl.cpp 
+8B-40-BF-F0-34-73-8B-0F-18-32-0F-C2-1E-10-DD-0F
+;WPF codebase from Dev 10
+B7-35-BE-4E-22-BA-BF-BC-BE-CD-37-8D-7F-84-CB-3C
+30-4B-B1-32-87-F8-9F-E8-2E-A0-FE-41-A1-F8-00-D3
+;Another version in Win7Phone  d:\seven1\others\atl9\include\atlcom.h
+0A-34-FE-5E-A9-5D-DC-B4-E1-08-98-55-72-4C-67-3D
+;Another version in Win7Phone d:\seven1\others\atl9\include\atlcomcli.h
+2D-06-C2-05-2D-E9-95-8D-C5-81-81-A2-33-2E-E2-81
