@@ -7,3 +7,12 @@ c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\ResGen.read.1.tlog
 c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\ResGen.write.1.tlog
 c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\csmanage.exe
 c:\CIServer\dotnet\csmanage\C#\csmanage\obj\Release\csmanage.pdb
+c:\Users\amitshar\csmanage\target\compile\csmanage.exe.config
+c:\Users\amitshar\csmanage\target\compile\csmanage.exe
+c:\Users\amitshar\csmanage\target\compile\csmanage.pdb
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\csmanage\obj\Release\ResolveAssemblyReference.cache
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\csmanage\obj\Release\Microsoft.Samples.WindowsAzure.ServiceManagement.Tools.ResourceFile.resources
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\csmanage\obj\Release\GenerateResource.read.1.tlog
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\csmanage\obj\Release\GenerateResource.write.1.tlog
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\csmanage\obj\Release\csmanage.exe
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\csmanage\obj\Release\csmanage.pdb

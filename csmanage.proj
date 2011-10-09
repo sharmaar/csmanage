@@ -22,7 +22,7 @@
   <Target Name="Fxcop" DependsOnTargets="Compile">
    
     
-    <Exec Command='$(FxcopConsoleExe) /f:$(CompileFolder) /out:fxcopresults.xml'  />
+    <Exec Command='$(FxcopConsoleExe) /f:$(CompileFolder) /r:$(FxcopFolder)\ActiveRules /out:fxcopresults.xml'  />
   </Target>
 
 

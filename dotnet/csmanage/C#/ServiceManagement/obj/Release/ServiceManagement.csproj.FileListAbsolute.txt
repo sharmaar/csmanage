@@ -3,3 +3,8 @@ c:\CIServer\target\compile\ServiceManagement.pdb
 c:\CIServer\dotnet\csmanage\C#\ServiceManagement\obj\Release\ResolveAssemblyReference.cache
 c:\CIServer\dotnet\csmanage\C#\ServiceManagement\obj\Release\ServiceManagement.dll
 c:\CIServer\dotnet\csmanage\C#\ServiceManagement\obj\Release\ServiceManagement.pdb
+c:\Users\amitshar\csmanage\target\compile\ServiceManagement.dll
+c:\Users\amitshar\csmanage\target\compile\ServiceManagement.pdb
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\ServiceManagement\obj\Release\ResolveAssemblyReference.cache
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\ServiceManagement\obj\Release\ServiceManagement.dll
+c:\Users\amitshar\csmanage\dotnet\csmanage\C#\ServiceManagement\obj\Release\ServiceManagement.pdb
